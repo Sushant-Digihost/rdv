@@ -1,0 +1,243 @@
+@font-face {
+    font-family: 'Space Ranger';
+    src: url('SpaceRanger.woff2') format('woff2'),
+        url('SpaceRanger.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger Academy';
+    src: url('SpaceRangerAcademy.woff2') format('woff2'),
+        url('SpaceRangerAcademy.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger 3D';
+    src: url('SpaceRanger3DItalic.woff2') format('woff2'),
+        url('SpaceRanger3DItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger 3D';
+    src: url('SpaceRanger3D.woff2') format('woff2'),
+        url('SpaceRanger3D.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger';
+    src: url('SpaceRangerBold.woff2') format('woff2'),
+        url('SpaceRangerBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger';
+    src: url('SpaceRangerBoldItalic.woff2') format('woff2'),
+        url('SpaceRangerBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger Academy';
+    src: url('SpaceRangerAcademyItalic.woff2') format('woff2'),
+        url('SpaceRangerAcademyItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger Condensed';
+    src: url('SpaceRangerCondensed.woff2') format('woff2'),
+        url('SpaceRangerCondensed.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger Chrome';
+    src: url('SpaceRangerChrome.woff2') format('woff2'),
+        url('SpaceRangerChrome.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger Expanded';
+    src: url('SpaceRangerExpanded.woff2') format('woff2'),
+        url('SpaceRangerExpanded.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger Condesned';
+    src: url('SpaceRangerCondesnedItalic.woff2') format('woff2'),
+        url('SpaceRangerCondesnedItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger Expanded';
+    src: url('SpaceRangerExpandedItalic.woff2') format('woff2'),
+        url('SpaceRangerExpandedItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger Chrome';
+    src: url('SpaceRangerChromeItalic.woff2') format('woff2'),
+        url('SpaceRangerChromeItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger Gradient';
+    src: url('SpaceRangerGradientItalic.woff2') format('woff2'),
+        url('SpaceRangerGradientItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger Gradient';
+    src: url('SpaceRangerGradient.woff2') format('woff2'),
+        url('SpaceRangerGradient.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger Halftone';
+    src: url('SpaceRangerHalftone.woff2') format('woff2'),
+        url('SpaceRangerHalftone.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger Laser';
+    src: url('SpaceRangerLaserItalic.woff2') format('woff2'),
+        url('SpaceRangerLaserItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger';
+    src: url('SpaceRangerItalic.woff2') format('woff2'),
+        url('SpaceRangerItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger Laser';
+    src: url('SpaceRangerLaser.woff2') format('woff2'),
+        url('SpaceRangerLaser.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger Halftone';
+    src: url('SpaceRangerHalftoneItalic.woff2') format('woff2'),
+        url('SpaceRangerHalftoneItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger Leftalic';
+    src: url('SpaceRangerLeftalic.woff2') format('woff2'),
+        url('SpaceRangerLeftalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger Semi';
+    src: url('SpaceRangerSemi-Italic.woff2') format('woff2'),
+        url('SpaceRangerSemi-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger Super';
+    src: url('SpaceRangerSuper-Italic.woff2') format('woff2'),
+        url('SpaceRangerSuper-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger Title';
+    src: url('SpaceRangerTitle.woff2') format('woff2'),
+        url('SpaceRangerTitle.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger Outline';
+    src: url('SpaceRangerOutline.woff2') format('woff2'),
+        url('SpaceRangerOutline.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger Outline';
+    src: url('SpaceRangerOutlineItalic.woff2') format('woff2'),
+        url('SpaceRangerOutlineItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Space Ranger Title';
+    src: url('SpaceRangerTitleItalic.woff2') format('woff2'),
+        url('SpaceRangerTitleItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
